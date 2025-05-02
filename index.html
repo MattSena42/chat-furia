@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chat da Torcida FURIA!</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="chat-container">
+    <h1>Chat da Torcida FURIA!</h1>
+    <div class="chat-box" id="chat-box">
+      <div class="message bot">Bem-vindo(a) ao chat da FURIA! 🐾</div>
+    </div>
+
+    <div class="input-area">
+      <input type="text" id="userText" placeholder="Digite sua mensagem...">
+      <button onclick="sendUserMessage()">Enviar</button>
+    </div>
+
+    <div class="buttons">
+      <button onclick="sendStatus()">Status do Jogo</button>
+      <button onclick="sendCheer()">Torcer!</button>
+      <button onclick="sendNews()">Últimas Notícias</button>
+    </div>
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+
+</html>
