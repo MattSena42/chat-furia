@@ -1,4 +1,4 @@
-# 🐾 Chat da Torcida FURIA
+# 🐾 Chat da Torcida - FURIA
 
 Projeto desenvolvido como parte do processo seletivo para a vaga de Assistente de Engenharia de Software na FURIA.
 
