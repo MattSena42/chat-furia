@@ -53,4 +53,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-Feito por Matheus Sena [🔗 GitHub](https://github.com/MattSena42)  
+Feito por **Matheus Sena**
+[🔗 GitHub](https://github.com/MattSena42) | [🔗 LinkedIn](https://www.linkedin.com/in/matheus-sena/)
